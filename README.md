@@ -1,5 +1,5 @@
 <h1 align="center">
-    ✨ NezukoBot ✨
+    ✨ ACO V7 Bot ✨
 </h1>
 
 <h3 align="center">
