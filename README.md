@@ -50,7 +50,7 @@
 </h2>
 
 ```console
-git clone https://github.com/rozari0/NezukoBot
+git clone https://github.com/Splashpro/acov7
 cd NezukoBot
 pip3 install -U -r requirements.txt
 cp sample_config.env config.env
@@ -77,7 +77,7 @@ python3 -m nezuko
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/rozari0/NezukoBot">
+        <a href="https://heroku.com/deploy?template=https://github.com/Splashpro/acov7">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
